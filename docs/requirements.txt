@@ -1,0 +1,12 @@
+sphinx-hoverxref
+sphinx-copybutton
+sphinx-design
+sphinx
+pydata-sphinx-theme
+sphinx-togglebutton
+pydata-sphinx-theme
+sphinxcontrib-youtube
+sphinx-copybutton
+sphinx-github-style
+accessible-pygments
+sphinx-preview
