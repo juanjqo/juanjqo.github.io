@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="190.32382mm"
+   height="41.654503mm"
+   viewBox="0 0 190.32382 41.654503"
+   version="1.1"
+   id="svg56352"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="cover.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview56354"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.78127806"
+     inkscape:cx="301.42917"
+     inkscape:cy="261.11062"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-7"
+     inkscape:window-y="-7"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs56349" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-13.207526,-79.583801)">
+    <rect
+       style="fill:#000000;stroke-width:2"
+       id="rect57199"
+       width="190.32382"
+       height="41.654503"
+       x="13.207526"
+       y="79.583801" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:9.87777px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:2"
+       x="105.32155"
+       y="102.95097"
+       id="text57203"><tspan
+         sodipodi:role="line"
+         id="tspan57201"
+         style="fill:#ffffff;stroke-width:2"
+         x="105.32155"
+         y="102.95097">MY PROJECT</tspan></text>
+  </g>
+</svg>

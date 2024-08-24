@@ -1,0 +1,85 @@
+div.admonition.admonition-youtube {
+  border-color: hsl(0, 100%, 50%); /* YouTube red */
+}
+div.admonition.admonition-youtube > .admonition-title:before {
+  background-color: hsl(0, 99%, 18%);
+}
+div.admonition.admonition-youtube > .admonition-title:after {
+  color: hsl(0, 100%, 50%);
+  content: "\f26c"; /* fa-solid fa-tv */
+}
+div.admonition.admonition-youtube > .admonition-title {
+  color: white;
+}
+
+html[data-theme="light"] {
+    --pst-color-primary: black;
+    --pst-color-surface: rgb(40, 42, 54)
+    --pst-color-surface: rgb(100, 42, 54)
+}
+
+
+div.admonition.admonition-goal > .admonition-title:after {
+  content: "\f11e"; /* the fa-scale icon */
+}
+
+
+/*--------------disclaimer------------------------------------------*/
+div.admonition.admonition-disclaimer > .admonition-title:after {
+  content: "\f06a"; /* the fa-scale icon */
+}
+div.admonition.admonition-disclaimer {
+  border-color: hsl(360, 100%, 57%);
+}
+div.admonition.admonition-disclaimer > .admonition-title:before {
+  background-color: hsl(12, 100%, 85%);  /* upper background*/
+}
+div.admonition.admonition-disclaimer > .admonition-title:after {
+  /*color: hsl(60, 100%, 25%); */
+  color: hsl(360, 100%, 57%);  /* for the ICON*/
+}
+div.admonition.admonition-disclaimer > .admonition-title {
+  color: black; /* for the title font color*/
+}
+/*-------------------------------------------------------------------*/
+
+
+/*--------------Example------------------------------------------*/
+div.admonition.admonition-example > .admonition-title:after {
+  content: "\f492"; /* the fa-scale icon */
+}
+div.admonition.admonition-example  {
+  border-color: hsl(288, 100%, 50%);
+}
+div.admonition.admonition-example  > .admonition-title:before {
+  background-color: hsl(288, 100%, 88%);  /* upper background*/
+}
+div.admonition.admonition-example  > .admonition-title:after {
+  /*color: hsl(60, 100%, 25%); */
+  color: hsl(288, 100%, 50%);  /* for the ICON*/
+}
+div.admonition.admonition-example  > .admonition-title {
+  color: black; /* for the title font color*/
+}
+/*-------------------------------------------------------------------*/
+
+
+/*--------------Git Example------------------------------------------*/
+div.admonition.admonition-git > .admonition-title:after {
+  font: var(--fa-font-brands);
+  content: "\f09b"; /* the fa-scale icon */
+}
+div.admonition.admonition-git {
+  border-color: hsl(288, 100%, 50%);
+}
+div.admonition.admonition-git > .admonition-title:before {
+  background-color: hsl(288, 100%, 88%);  /* upper background*/
+}
+div.admonition.admonition-git > .admonition-title:after {
+  /*color: hsl(60, 100%, 25%); */
+  color: hsl(288, 100%, 50%);  /* for the ICON*/
+}
+div.admonition.admonition-git> .admonition-title {
+  color: black; /* for the title font color*/
+}
+/*-------------------------------------------------------------------*/
